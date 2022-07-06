@@ -2,4 +2,4 @@
 plugin tube music for kodi
 
 ## download
-https://github.com/OnePlayHD/OneRepo/raw/master/matrix/plugin.video.tubemusic/plugin.video.tubemusic-1.0.0.zip
+https://github.com/OnePlayHD/OneRepo/tree/master/matrix/plugin.video.tubemusic
