@@ -112,6 +112,9 @@ video_id = "WMweEpGlu_U"
 name = "Madison Beer - Baby (Official Music Video)"
 video_id = "GfsLT7W80AE"
 
+name = "Adele - Easy On Me (Official Video)"
+video_id = "U3ASj1L6_sY"
+
 name = "The Chainsmokers & Coldplay - Something Just Like This (Lyric)"
 video_id = "FM7MFYoylVs"
 
@@ -229,6 +232,9 @@ video_id = "CevxZvSJLk8"
 name = "Justin Bieber - Sorry (PURPOSE : The Movement)"
 video_id = "fRh_vgS2dFE"
 
+name = "Rihanna - We Found Love ft. Calvin Harris"
+video_id = "tg00YEETFzg"
+
 name = "Chris Brown - Wall to Wall (Remix) ft. Jadakiss (Official HD Video) ft. Jadakiss"
 video_id = "SLEDI_F7HKY"
 
@@ -304,6 +310,9 @@ video_id = "5Wiio4KoGe8"
 name = "Maroon 5 - Payphone ft. Wiz Khalifa (Explicit) (Official Music Video)"
 video_id = "KRaWnd3LJfs"
 
+name = "Calvin Harris - Summer (Official Video)"
+video_id = "ebXbLfLACGM"
+
 name = "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj"
 video_id = "SXiSVQZLje8"
 
@@ -337,11 +346,17 @@ video_id = "5-xVwxqjNyI"
 name = "Calvin Harris - Sweet Nothing (Official Video) ft. Florence Welch"
 video_id = "17ozSeGw-fY"
 
+name = "Pitbull - Give Me Everything ft. Ne-Yo, Afrojack, Nayer"
+video_id = "EPo5wWmKEaI"
+
 name = "DJ Snake - Middle ft. Bipolar Sunshine"
 video_id = "IvPT2QuCIOA"
 
 name = "Tove Lo - Habits (Stay High)"
 video_id = "oh2LWWORoiM"
+
+name = "Timbaland - Apologize ft. OneRepublic"
+video_id = "ZSM3w1v-A_Y"
 
 name = "Fifth Harmony - All In My Head (Flex) (Official Video) ft. Fetty Wap"
 video_id = "jsbeemdD2rQ"
@@ -369,6 +384,9 @@ video_id = "k0BWlvnBmIE"
 
 name = "Taylor Swift - Bad Blood ft. Kendrick Lamar"
 video_id = "QcIy9NiNbmo"
+
+name = "Lewis Capaldi - Someone You Loved (Official Video)"
+video_id = "zABLecsR5UE"
 
 name = "Sia - Chandelier (Official Video)"
 video_id = "2vjPBrBU-TM"
@@ -429,3 +447,12 @@ video_id = "AqajUg85Ax4"
 
 name = "Shawn Mendes - Treat You Better"
 video_id = "lY2yjAdbvdQ"
+
+name = "Shawn Mendes, Camila Cabello - I Know What You Did Last Summer (Official Music Video)"
+video_id = "ngORmvyvAaI"
+
+name = "Zara Larsson, MNEK - Never Forget You"
+video_id = "GTyN-DB_v5M"
+
+name = "Ariana Grande - no tears left to cry (Official Video)"
+video_id = "ffxKSjUwKdU"
