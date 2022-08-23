@@ -1,6 +1,9 @@
 name = "POP MUSIC"
 playlist = "https://github.com/zoreu/plugin.video.tubemusic/raw/main/pop_playlist"
 
+name = "NOSTALGIA"
+playlist = "https://github.com/zoreu/plugin.video.tubemusic/raw/main/nostalgia_playlist"
+
 name = "SERTANEJO"
 playlist = "https://github.com/zoreu/plugin.video.tubemusic/raw/main/sertanejo_playlist"
 
